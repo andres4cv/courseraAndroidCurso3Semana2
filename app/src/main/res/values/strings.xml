@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">curso3semana2</string>
+    <string name="primerCampo">Nombre Completo</string>
+    <string name="campoFecha">Selecciona Fecha</string>
+    <string name="segundoCampo">Telefono</string>
+    <string name="tercerCampo">Email</string>
+    <string name="cuartoCampo">Descripcion Contacto</string>
+    <string name="planned_date">01/01/2020</string>
+    <string name="boton1">Siguiente</string>
+
+    <string name="titulo2daAct">Confirmar Datos</string>
+    <string name="boton2">Editar Datos</string>
+    <string name="campoFecha2daAct">Fecha Nacimiento:</string>
+    <string name="segundoCampo2daAct">Tel:</string>
+    <string name="tercerCampo2daAct">Email:</string>
+    <string name="cuartoCampo2daAct">Descripcion:</string>
+
+</resources>
